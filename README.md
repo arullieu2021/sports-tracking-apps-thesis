@@ -3,7 +3,7 @@
 **The Role of Data, Motivation, and Health Improvement in Digital Fitness Platforms**
 
 BBA Final Project | IE University | April 2026  
-Author: Ana Maria Rull Orti (ID: 17061)  
+Author: Ana Maria Rull Orti (ID: 16313)  
 Supervisor: Prof. César Moreno Pascual
 
 ---
