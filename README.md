@@ -4,7 +4,7 @@
 
 BBA Final Project | IE University | April 2026  
 Author: Ana Maria Rull Orti (ID: 17061)  
-Supervisor: Prof. César Moreno Pascual, PhD
+Supervisor: Prof. César Moreno Pascual
 
 ---
 
